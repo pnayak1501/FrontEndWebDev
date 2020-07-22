@@ -1,0 +1,28 @@
+/*
+body{
+    background-image: url("../images/bg1.png");
+}
+*/
+
+body{
+    background: url(../images/bgdog.jpg) center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div{
+    background-color: aqua
+}
+
+i{
+    color:red;
+}
+h1{
+    color:darkblue;
+    text-align: center;
+    border:3px solid red;     
+    padding:20px;
+    width:300px;
+    margin: 300px auto;
+    font-family: 'Suez One', serif;
+}

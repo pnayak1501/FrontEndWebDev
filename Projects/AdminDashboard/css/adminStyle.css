@@ -1,0 +1,40 @@
+.flex-column{
+    margin:0px -20px 20px 20px;  
+}
+
+.flex-column > li >a{
+    padding:20px 20px;
+}
+
+.main{
+    padding:20px;
+}
+
+.plceholders{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.placeholder{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.placehplder img{
+    display:inline;
+    border-radius: 50%;
+}
+
+.sticky-bottom{
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    padding-bottom: 10px;
+}
+
+ a{
+    color: white;
+}
+
+
+

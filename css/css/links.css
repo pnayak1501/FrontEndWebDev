@@ -1,0 +1,16 @@
+a{
+    font-size: 35px;
+}
+
+a:link{
+    color:red;
+}
+a:visited{
+    color:darkcyan;
+}
+a:hover{
+    color:black;
+}
+a:active{
+    color:skyblue;
+}
